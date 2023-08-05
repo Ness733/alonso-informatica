@@ -1,11 +1,39 @@
 {
   "teclado": [
     {
-      "nombre": "Teclado Red Dragon",
+      "nombre": "Teclado Redragon K552 Kumara Black Rgb Switches Blue Español",
       "marca": "Red Dragon",
       "id": 0,
-      "categoria": "teclados",
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_858207-MLA49693533889_042022-O.webp"
+      "categoria": "mecánicos",
+      "imagen": "https://www.venex.com.ar/products_images/1655235540_k552rgb_pnghq_1.png"
+    },
+    {
+      "nombre": "Memoria RAM ValueRAM color verde 8GB 1 Kingston KVR32N22S6/8",
+      "marca": "Kingston",
+      "id": 1,
+      "categoria": "memorias/ddr4",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_926221-MLA49041547660_022022-V.webp"
+    },
+    {
+      "nombre": "Tarjeta Madre Asus A320m-k Amd A320 Ryzen 1ra Gen A-series 7",
+      "marca": "Asus",
+      "id": 2,
+      "categoria": "placas madre",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_790321-MLM29179731159_012019-O.webp"
+    },
+    {
+      "nombre": "Pc Armada Gamer Amd Ryzen 5 5600g 12 Nucleo Ram 16gb Ssd 480",
+      "marca": "AMD",
+      "id": 3,
+      "categoria": "PCs",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_884368-MLA53087339003_122022-O.webp"
+    },
+    {
+      "nombre": "Mouse inalámbrico Logitech M170 negro",
+      "marca": "Logitech",
+      "id": 4,
+      "categoria": "mouse",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_744609-MLA32854739285_112019-V.webp"
     }
   ]
 }
